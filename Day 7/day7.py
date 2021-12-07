@@ -46,6 +46,3 @@ for i in range(min_pos, max_pos+1):
         least_fuel = temp
 
 print(least_fuel)
-
-    
-    
