@@ -1,2 +1,2 @@
-# Advent-of-Code-2021
-My Advent of Code 2021 Attempts
+# Advent-of-Code
+My Advent of Code 2021 & 2022 Attempts
